@@ -1,10 +1,4 @@
-Django>=1.2
-PIL>=1.1.7
-django-haystack>=1.2.5
-south
-pygments
-postmarkup
-django-pagination
-https://github.com/arneb/django-messages/tarball/master#egg=django-messages
--e git://github.com/jtauber/django-mailer.git#egg=django-mailer
 -e hg+https://bitbucket.org/slav0nic/djangobb#egg=djangobb_forum
+pygments
+-e git://github.com/jtauber/django-mailer.git#egg=django-mailer
+https://github.com/arneb/django-messages/tarball/master#egg=django-messages
