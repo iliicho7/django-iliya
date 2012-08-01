@@ -7,4 +7,4 @@ postmarkup
 django-pagination
 https://github.com/arneb/django-messages/tarball/master#egg=django-messages
 -e git://github.com/jtauber/django-mailer.git#egg=django-mailer
-https://bitbucket.org/slav0nic/djangobb#stable
+-e hg://bitbucket.org/slav0nic/djangobb#stable
