@@ -4,3 +4,4 @@ pygments
 https://github.com/arneb/django-messages/tarball/master#egg=django-messages
 django-registration
 django_authopenid
+whoosh
